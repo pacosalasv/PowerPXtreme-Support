@@ -4,11 +4,11 @@
 
 # PowerPXtreme
 
-**PowerPoint productivity tools for slides, layout, objects, notes, export, optimization, and presentation workflows**
+**A PowerPoint productivity toolkit for faster slide production, smarter paste workflows, precise layouts, polished exports, and presentation-scale automation.**
 
-![Status](https://img.shields.io/badge/Status-Current%20build-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-00B7FF?style=for-the-badge) ![Host](https://img.shields.io/badge/Host-Microsoft%20PowerPoint-334155?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Current%20Release-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-00B7FF?style=for-the-badge) ![Host](https://img.shields.io/badge/Host-Microsoft%20PowerPoint-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/PowerPXtreme-Support/issues) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Profile-334155?style=for-the-badge)](https://github.com/pacosalasv) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Site-64748B?style=for-the-badge)](https://xtreme-mindset.blogspot.com/)
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/PowerPXtreme-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-64748B?style=for-the-badge)](https://xtrememindset.blogspot.com/) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
 
 </div>
 
@@ -16,38 +16,49 @@
 
 ## Overview
 
-PowerPXtreme is a PowerPoint add-in with ribbon groups for clipboard workflows, notes, insert/create actions, layout, object handling, text/notes, unit conversion, slides, optimization, export, codes/symbols, help, and selection workflows. The supplied v1.0 build also exposes Smart Paste and sticky-note workflows.
+PowerPXtreme is built for people who create, revise, and deliver presentations at scale. It extends PowerPoint with practical tools for repetitive slide work: Smart Paste, sticky notes, object alignment, layout, image cropping, speaker notes, unit conversion, optimization, export, selection, and presentation utilities.
+
+The goal is not to replace PowerPoint's native workflow — it is to make that workflow dramatically more efficient. Consultants, PMO teams, business leaders, designers, trainers, sales teams, and presentation-heavy professionals can spend less time fixing the mechanics of slides and more time shaping the story.
+
+## Key features
+
+- **Smart Paste across slide scopes** with replace or append behavior for selected, all, visible, hidden, or new slides.
+- **Layout and object production tools** for reference alignment, exact gaps, distribution, grid layout, slide fitting, selection, and reversible size randomization.
+- **Smart Crop and picture workflows** for crop/fill/fit, slide-bound cleanup, position normalization, and faster visual consistency.
+- **Rich Sticky Notes** with basic, pastel, bright, neutral, transparent, and custom colors for reviews, workshops, storyboards, and collaboration.
+- **Text and speaker-note utilities** covering case conversion, note formatting/removal, symbols, and presentation-friendly text workflows.
+- **Slide maintenance tools** including slide-number refresh, master cleanup, layout reset, and presentation-arrow utilities.
+- **Professional export options** for PDF and high-resolution slide images, including very-high-resolution image export presets.
+- **Unit conversion and design helpers** that reduce manual calculations while building technically precise presentations.
+
+## Standout tools and workflows
+
+| Tool / workflow | Why it matters |
+|---|---|
+| **Smart Paste** | Replace or append tagged content across selected, all, visible, hidden, or newly created slides. |
+| **Layout Palette** | Keep an always-available visual alignment palette open while arranging objects. |
+| **Align to Reference** | Align selected shapes to a reference object with optional exact spacing while preserving structure. |
+| **Grid Layout** | Reflow multiple objects into configurable rows and columns in seconds. |
+| **Smart Crop** | Normalize pictures with crop, fit, fill, match and slide-bound workflows. |
+| **Sticky Notes** | Create workshop/review notes from a large color library, including transparency and custom colors. |
+| **Speaker Notes** | Format or remove notes across the current slide, selected slides or the full deck. |
+| **Clean Slide Master** | Remove unused master content and keep presentation files easier to maintain. |
+| **Export to PDF** | Control slide scope, hidden slides, document properties, accessibility options, PDF/A and font behavior. |
+| **Export Slides as Images** | Create presentation images using preset or custom resolution options, including very high resolution. |
 
 ## Product status
 
 | Item | Details |
 |---|---|
-| Status | **Current build** |
+| Status | **Current release** |
 | Version | 1.0 |
 | Product type | Office productivity add-in |
 | Host | Microsoft PowerPoint |
-| Distribution | Installable product files are not mirrored in this support repository. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-## Capabilities
-
-| Capability |
-|---|
-| Smart Paste workflows for selected, all, visible, hidden, and new slides. |
-| Sticky Notes and insert/create tools. |
-| Layout, design, object, selection, and randomize-size workflows. |
-| Text, notes, unit-conversion, and slide utilities. |
-| Optimization and export commands. |
-| Codes, symbols, help, about, and workflow support groups. |
-| Ribbon integration provided by the supplied PowerPoint add-in. |
+| Best for | Consulting decks, PMO reporting, training, sales, workshops, presentation production |
 
 ## Media
 
-The featured image above is the current public product identity/reference image for this support repository.
-
-## Product reference
-
-This page is based on the supplied **PowerPXtreme 1.0** build/reference files. The installable product is intentionally kept outside this public support repository.
+Additional product screenshots and workflow previews are coming soon.
 
 ## Documentation and support
 
@@ -60,7 +71,7 @@ This page is based on the supplied **PowerPXtreme 1.0** build/reference files. T
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, compatibility work, documentation, testing, and continued development of practical free tools.
+If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -72,10 +83,12 @@ Ko-fi support is optional. Contributions help fund maintenance, compatibility wo
 
 | Destination | Link |
 |---|---|
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Xtreme Mindset | [Product and experimentation site](https://xtreme-mindset.blogspot.com/) |
+| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
+| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
+| KreaOn | [Applied technology education](https://www.kreaon.com/) |
+| DRH Blender Tools | [Browse Blender tools on BlendKit](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-The installable `.pptm` reference build is not distributed from this support repository. Refer to the product package for applicable terms.
+Licensing and usage terms are provided with the current PowerPXtreme distribution.

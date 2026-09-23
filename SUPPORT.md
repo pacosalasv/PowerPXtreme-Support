@@ -1,6 +1,6 @@
 # PowerPXtreme — Support
 
-This repository is the public documentation, support, issue-tracking, and feedback surface for **PowerPXtreme 1.0**.
+This repository is the public documentation, support, issue-tracking, and feedback home for **PowerPXtreme 1.0**.
 
 ## Start here
 
@@ -16,8 +16,8 @@ This repository is the public documentation, support, issue-tracking, and feedba
 
 | Information | What to provide |
 |---|---|
-| Product version | `1.0` or the exact version/build you are using |
-| Host | Microsoft PowerPoint plus the exact host/browser/OS version where relevant |
+| Product version | `1.0` or the exact version you are using |
+| Host | Microsoft PowerPoint plus the exact Office/Windows version where relevant |
 | Reproduction | Clear steps from a clean or known state |
 | Expected result | What you expected to happen |
 | Actual result | What happened instead |
@@ -31,13 +31,13 @@ Review the README, reproduce the behavior when possible, and check existing Issu
 
 Do not post passwords, license keys, private account details, confidential client files, or sensitive system information. If private material appears necessary, describe the problem first and wait for a safe sharing path.
 
-## Release and distribution status
+## Release status
 
-The supplied reference is **PowerPXtreme 1.0**. Installable product files are not mirrored in this support repository.
+**Current release: 1.0.** Use this repository for documentation, compatibility notes, issue tracking, and product feedback.
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, compatibility work, documentation, testing, and continued development.
+If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -49,7 +49,8 @@ Ko-fi support is optional. Contributions help fund maintenance, compatibility wo
 
 | Destination | Link |
 |---|---|
-| Product repository | [PowerPXtreme-Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Xtreme Mindset | [Product and experimentation site](https://xtreme-mindset.blogspot.com/) |
+| Product support | [PowerPXtreme-Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
+| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
+| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
+| KreaOn | [Applied technology education](https://www.kreaon.com/) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |

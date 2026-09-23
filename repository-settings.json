@@ -1,6 +1,6 @@
 {
-  "description": "Documentation and support for PowerPXtreme v1.0, a PowerPoint productivity add-in for slide and presentation workflows.",
-  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "description": "PowerPoint productivity toolkit with Smart Paste, layout/alignment, Smart Crop, sticky notes, slide cleanup, export, optimization and presentation automation.",
+  "homepage": "https://xtrememindset.blogspot.com/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,
