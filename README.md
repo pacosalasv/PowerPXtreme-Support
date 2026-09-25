@@ -8,7 +8,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Current%20Release-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-00B7FF?style=for-the-badge) ![Host](https://img.shields.io/badge/Host-Microsoft%20PowerPoint-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/PowerPXtreme-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-64748B?style=for-the-badge)](https://xtrememindset.blogspot.com/) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
+[![Supporter access](https://img.shields.io/badge/Supporter%20Access-Request%20Build-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv) [![Support](https://img.shields.io/badge/Support-Issues-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/PowerPXtreme-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-7C3AED?style=for-the-badge)](https://xtrememindset.blogspot.com/)
 
 </div>
 
@@ -18,7 +18,13 @@
 
 PowerPXtreme is built for people who create, revise, and deliver presentations at scale. It extends PowerPoint with practical tools for repetitive slide work: Smart Paste, sticky notes, object alignment, layout, image cropping, speaker notes, unit conversion, optimization, export, selection, and presentation utilities.
 
-The goal is not to replace PowerPoint's native workflow — it is to make that workflow dramatically more efficient. Consultants, PMO teams, business leaders, designers, trainers, sales teams, and presentation-heavy professionals can spend less time fixing the mechanics of slides and more time shaping the story.
+The goal is not to replace PowerPoint's native workflow. It is to make that workflow dramatically more efficient. Consultants, PMO teams, business leaders, designers, trainers, sales teams, and presentation-heavy professionals can spend less time fixing the mechanics of slides and more time shaping the story.
+
+## Get the current build
+
+This product is shared directly with supporters instead of through a public download link. [Support development on Ko-fi](https://ko-fi.com/pacosalasv) and include **the product name and the email address where you want to receive it** in your message. I will send the current available build directly.
+
+Direct distribution keeps access personal, connects product feedback with active users, and gives supporters a simple route to the current build without hunting through mirrors or outdated packages.
 
 ## Key features
 
@@ -64,6 +70,7 @@ Additional product screenshots and workflow previews are coming soon.
 
 | Resource | Link |
 |---|---|
+| Current build | [Request supporter access](https://ko-fi.com/pacosalasv) |
 | Support guide | [SUPPORT.md](SUPPORT.md) |
 | Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
 | Issues | [Open or review issues](https://github.com/pacosalasv/PowerPXtreme-Support/issues) |
@@ -83,11 +90,15 @@ If this tool saves you time, Ko-fi support helps fund maintenance, compatibility
 
 | Destination | Link |
 |---|---|
-| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
-| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
-| KreaOn | [Applied technology education](https://www.kreaon.com/) |
-| DRH Blender Tools | [Browse Blender tools on BlendKit](https://www.blendkit.com/?query=author_id:205846) |
-| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| Supporter access | [Request the current build on Ko-fi](https://ko-fi.com/pacosalasv) |
+| Issues & feedback | [GitHub Issues](https://github.com/pacosalasv/PowerPXtreme-Support/issues) |
+| Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
+| Paco Salas \| DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| DRH Blender tools | [BlendKit catalog](https://www.blendkit.com/?query=author_id:205846) |
+| Sketchfab / Código Píxel | [3D model collections](https://sketchfab.com/codigopixel/collections) |
+| KreaOn | [Technology education](https://www.kreaon.com/) |
+| PiNu | [Connected physical products](https://pinu.com.mx/) |
+| GitHub | [pacosalasv](https://github.com/pacosalasv) |
 
 ## License
 
