@@ -1,0 +1,17 @@
+{
+  "description": "PowerPoint productivity toolkit with Smart Paste, layout/alignment, Smart Crop, sticky notes, slide cleanup, export, optimization and presentation automation.",
+  "homepage": "https://xtrememindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "powerpoint",
+    "office",
+    "productivity",
+    "vba",
+    "addin",
+    "slides",
+    "automation",
+    "technical-support"
+  ]
+}
